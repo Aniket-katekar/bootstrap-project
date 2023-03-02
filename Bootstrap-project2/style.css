@@ -29,10 +29,12 @@
     .social-link{
         font-size: 25px;
         margin: 5px 5px;
-        /* align-items: center; */
     }
     .btns{
         justify-content: end;
+    }
+    .social-group{
+        padding-top: 1px;
     }
 
 }
