@@ -24,7 +24,9 @@
     display: flex;
     align-items: center;
 }
-
+.navbar-brand{
+    font-size: 30px;
+}
 @media screen and (max-width:600px){
     .social-link{
         font-size: 25px;
@@ -35,6 +37,16 @@
     }
     .social-group{
         padding-top: 2px;
+    }
+    .navbar-toggler-icon{
+        font-size: 15px;
+    }
+    .register{
+        margin-right:4px;
+        margin-left:12px;
+    }
+    .navbar-brand{
+        font-size: 25px;
     }
 
 }
