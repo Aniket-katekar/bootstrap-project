@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.social{
+    display: flex;
+}
+.social-group,.btn-group{
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+.social-link{
+    text-decoration: none;
+    font-size: 30px;
+    margin: 5px 10px;
+    /* align-items: end; */
+}
+.social-item,.btn-item{
+    list-style: none;
+}
+.btns{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+@media screen and (max-width:600px){
+    .social-link{
+        font-size: 20px;
+        margin: 5px 5px;
+    }
+    .btns{
+        justify-content: end;
+    }
+
+}
