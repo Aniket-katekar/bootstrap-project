@@ -42,10 +42,10 @@
 }
 .nav-link:hover{
     /* color: #e60073; */
-    color: orange;
+    color: #e60073;
 }
 .dropdown-item:hover{
-    color: #e60073;
+    color: orange;
 }
 @media screen and (max-width:600px){
     .social-link{
