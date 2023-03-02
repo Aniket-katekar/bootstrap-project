@@ -38,6 +38,9 @@
     .social-group{
         padding-top: 2px;
     }
+    .navbar-toggler{
+        padding: 4px 7px;
+    }
     .navbar-toggler-icon{
         font-size: 15px;
     }
