@@ -26,6 +26,16 @@
 }
 .navbar-brand{
     font-size: 30px;
+    color: orange;
+}
+.fa-facebook{
+    color: #4267B2;
+}
+.fa-twitter{
+    color: #1DA1F2;
+}
+.fa-instagram{
+    color: #e60073;
 }
 @media screen and (max-width:600px){
     .social-link{
