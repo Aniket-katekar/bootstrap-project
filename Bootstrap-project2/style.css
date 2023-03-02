@@ -37,6 +37,16 @@
 .fa-instagram{
     color: #e60073;
 }
+.currentPage{
+    color: #e60073;
+}
+.nav-link:hover{
+    /* color: #e60073; */
+    color: orange;
+}
+.dropdown-item:hover{
+    color: #e60073;
+}
 @media screen and (max-width:600px){
     .social-link{
         font-size: 25px;
